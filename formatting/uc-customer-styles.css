@@ -42,7 +42,7 @@
 }
 
 .usercare .chatbox .btn-chat div {
-    background: transparent url('https://cdn.agent.ai/agentai/img/webc/webchat-AI_Icon_Transparent.png') no-repeat;
+    background: transparent url('https://drive.google.com/file/d/0BypwxsFsvFc6aE8wX0gyWlJka0U/view?usp=sharing') no-repeat;
     background-size: 44px 44px;
 	height: 44px;
 	width: 44px;
@@ -61,7 +61,7 @@
 
 @-webkit-keyframes usercare-hvr-neon {
     0% {
-        background-color: #146a9b;
+        background-color: #0029FF;
         -webkit-box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, .3);
     }
     50% {
